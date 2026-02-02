@@ -1,19 +1,16 @@
-# WeChatPadPro
-新版内测中需要内测的可以在tg或者钉钉私信群主进行内测体验内测接口地址：https://wx.knowhub.cloud/
 <div align="center">
   <img src="static/doc/4270252wc57e-4b66-9ae3-0a81fc001255.png" alt="WeChatPadPro" width="800px">
 </div>
 
-<h1 align="center">🚀 基於 WeChat Pad 協議的高級管理工具v860</h1>
+<h1 align="center">🚀 基於 WeChat Pad 協議的高級管理工具v868</h1>
 
 <div align="center">
-  <strong>🌐 <a href="https://wx.knowhub.cloud/">在線演示系統</a> - 默認密碼:adminkey = 28d21d0f9748172c970ba4c208af5564
- </strong>
+  <strong>🌐 <a href="https://wx.knowhub.cloud/">在線演示系統</a> - 默認密碼:adminkey = 28d21d0f9748172c970ba4c208af5564</strong>
 </div>
 
 <p align="center">
   <a href="https://github.com/WeChatPadPro/WeChatPadPro">
-    <img src="https://img.shields.io/badge/Version-861-blue?style=for-the-badge" alt="版本">
+    <img src="https://img.shields.io/badge/Version-868-blue?style=for-the-badge" alt="版本">
   </a>
   <a href="https://github.com/WeChatPadPro/WeChatPadPro">
     <img src="https://img.shields.io/badge/iOS-18.6-brightgreen?style=for-the-badge" alt="iOS">
@@ -75,36 +72,28 @@
   </table>
 </div>
 
+---
 
 ## 📢 加入官方交流群
-
-> ⚠️ **關於舊 Telegram 群組的說明**  
-> 原 Telegram 交流群因平台自動審核誤判「違規」而被封禁。  
-> 我們已建立新的官方群組供大家繼續交流。  
->  
-> 🚀 **新群地址：** [https://t.me/WeChatPadPro1](https://t.me/WeChatPadPro1)  
->  
-> 請勿加入任何非官方來源的群組或下載連結，以免造成安全風險。
 
 <div align="center">
   <h3>🌟 加入我們的官方交流群和論壇，獲取最新版本更新、技術支援和使用教程！</h3>
 </div>
 
----
-
-| 💬 Telegram 交流群 | 💼 知識星球專業圈 | 🔔 釘釘交流群 | 🌐 Know Hub 在線論壇 |
-|:-----------------:|:----------------:|:-------------:|:-------------------:|
-| <div align="center"><img src="https://github.com/user-attachments/assets/5dc3cbf5-f4a3-489f-8b42-02501a34285a" width="160" alt="Telegram群二維碼" style="border-radius: 10px;"><br><br><a href="https://t.me/WeChatPadPro1"><img src="https://img.shields.io/badge/Telegram-加入群組-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="加入Telegram"></a><br><br>📊 成員數量: 1400+ 位用戶<br>🔔 即時更新通知<br>💡 技術問題解答<br>💬 使用經驗分享</div> | <div align="center"><a href="https://t.zsxq.com/DVvIh" target="_blank"><img src="https://github.com/user-attachments/assets/7459d8d4-0bf3-46ee-ae50-c9fb87020bac" width="160" alt="知識星球二維碼" style="border-radius: 10px;"></a><br><br><a href="https://t.zsxq.com/DVvIh" target="_blank"><div style="background:#FF6B35;color:#fff;padding:8px 16px;border-radius:20px;font-weight:bold;font-size:14px;display:inline-block;">🔒 掃碼加入知識星球</div></a><br><br>⭐ VIP 技術支持<br>🚀 專屬功能體驗<br>⚡ 優先解決問題<br>🎯 高級使用技巧分享</div> | <div align="center"><img src="https://github.com/user-attachments/assets/84b388ed-67a3-4f35-87d8-1b11e1747f55" width="160" alt="釘釘群二維碼" style="border-radius: 10px;"><br><br><a href="https://qr.dingtalk.com/action/joingroup?code=v1,k1,0YZVJVj8M8ZZqG2pocxE4i4M3XzeIiZA7dU6ASIk78idR7ksupjDEA==&_dt_no_comment=1&origin=11"><img src="https://img.shields.io/badge/钉钉-加入群組-1890FF?style=for-the-badge&logo=dingtalk&logoColor=white" alt="加入钉钉"></a><br><br>💻 技術討論<br>❓ 問題解答<br>💡 使用經驗分享</div> | <div align="center"><p>探索與交流 <strong>Know Hub</strong> 的無限可能</p><a href="https://bbs.knowhub.cloud/"><img src="https://img.shields.io/badge/論壇-加入討論-9C27B0?style=for-the-badge&logo=discourse&logoColor=white" alt="加入論壇"></a><br><br>📚 WeChatPadPro 交流群<br>💬 技術問題討論<br>📖 安裝使用指南<br>🆕 新需求反饋<br>📋 文檔中心</div> |
-
----
-
 <div align="center">
-  <sub>✅ 建議將此區塊放在專案首頁或文檔開頭，方便新用戶快速加入社群。</sub>
+
+| 💬 Telegram 交流群 |                                                                                                                                                                   💼 微信付費專業群                                                                                                                                                                   |                                                                                                                                                                                              🔔 釘釘交流群                                                                                                                                                                                              | 🌐 Know Hub 在線論壇 |
+|:---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---:| 
+| <img src="./static/qrcode/diabao.JPG" width="160" alt="Telegram群二維碼" style="border-radius: 10px;"><br><br><a href="https://t.me/+LK0JuqLxjmk0ZjRh"><img src="https://img.shields.io/badge/Telegram-加入群組-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="加入Telegram"></a><br><br>📊 成員數量: 1400+ 位用戶<br>🔔 即時更新通知<br>💡 技術問題解答<br>💬 使用經驗分享 | <img src="/static/qrcode/img.png" width="160" alt="微信付費入群二維碼" style="border-radius: 10px;"><br><br><div style="background: #FF6B35; color: white; padding: 8px 16px; border-radius: 20px; font-weight: bold; font-size: 14px; display: inline-block;">🔒 掃碼付費加入專業群</div><br><br>⭐ VIP技術支持<br>🚀 專屬功能體驗<br>⚡ 優先解決問題<br>搶先體驗最新868<br>🎯 高級使用技巧分享 | <img src="static/qrcode/3e97923ae306962c9f7c42133519aae3.jpg" width="180" alt="釘釘群二維碼" style="border-radius: 10px;"><br><br><a href="https://qr.dingtalk.com/action/joingroup?code=v1,k1,0YZVJVj8M8ZZqG2pocxE4i4M3XzeIiZA7dU6ASIk78idR7ksupjDEA==&_dt_no_comment=1&origin=11"><img src="https://img.shields.io/badge/加入釘釘-立即加入-0088CC?style=for-the-badge&logo=dingtalk&logoColor=white" alt="加入钉钉"></a><br><br>💻 技術討論<br>❓ 問題解答<br>💡 使用經驗分享 | <p>探索與交流 Know Hub 的無限可能</p><br><a href="https://bbs.knowhub.cloud/"><img src="https://img.shields.io/badge/論壇-加入討論-9C27B0?style=for-the-badge&logo=discourse&logoColor=white" alt="加入論壇"></a><br><br>📚 WeChatPadPro交流群<br>💬 技術問題討論<br>📖 安裝使用指南<br>🆕 新需求反饋<br>📋 文檔中心 |
+
 </div>
 
 ---
 
+---
+
 ## 💰 贊助支持
+
 
 <div align="center">
   <h2>您的支持是我們持續更新的動力</h2>
