@@ -1,3 +1,5 @@
+<h1 align="center">🚀 v868以更新在贊助群獲取</h1>
+
 <div align="center">
   <img src="static/doc/4270252wc57e-4b66-9ae3-0a81fc001255.png" alt="WeChatPadPro" width="800px">
 </div>
