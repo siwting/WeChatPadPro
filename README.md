@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/WeChatPadPro/WeChatPadPro">
-    <img src="https://img.shields.io/badge/Version-861-blue?style=for-the-badge" alt="版本">
+    <img src="https://img.shields.io/badge/Version-868-blue?style=for-the-badge" alt="版本">
   </a>
   <a href="https://github.com/WeChatPadPro/WeChatPadPro">
     <img src="https://img.shields.io/badge/iOS-18.6-brightgreen?style=for-the-badge" alt="iOS">
