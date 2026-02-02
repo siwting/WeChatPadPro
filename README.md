@@ -98,34 +98,34 @@
 <div align="center">
   <h2>您的支持是我們持續更新的動力</h2>
   <p style="font-size: 18px; margin: 20px 0;">🌟 每一份贊助都是對我們最大的鼓勵 🌟</p>
-  
+
   <a href="https://book.stripe.com/00w6oHbPkc7D1rn0iJ0Jq06">
     <img src="https://img.shields.io/badge/-%F0%9F%92%B0%20%E9%BB%9E%E6%93%8A%E8%B4%8A%E5%8A%A9-00BB00?style=for-the-badge" height="60" width="400" alt="點擊贊助" />
   </a>
-  
-  <br><br>
-  
-  ### 🌟 成為贊助者可獲得
-  
-  - ✅ **優先技術支援** - 獲得開發者直接回應
-  - ✅ **新功能優先體驗** - 提前體驗最新功能
-  - ✅ **客製化需求支援** - 您的需求將被優先考慮
-  - ✅ **企業級多帳號解決方案** - 適合商業用戶
-  - ✅ **高級API支援** - 更多高級介面調用能力
-  
+
+<br><br>
+
+### 🌟 成為贊助者可獲得
+
+- ✅ **優先技術支援** - 獲得開發者直接回應
+- ✅ **新功能優先體驗** - 提前體驗最新功能
+- ✅ **客製化需求支援** - 您的需求將被優先考慮
+- ✅ **企業級多帳號解決方案** - 適合商業用戶
+- ✅ **高級API支援** - 更多高級介面調用能力
+
   <br>
-  
-  ### 🚀 立即行動
-  
+
+### 🚀 立即行動
+
   <a href="https://book.stripe.com/00w6oHbPkc7D1rn0iJ0Jq06">
     <img src="https://img.shields.io/badge/Stripe-支付-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
   </a>
-  
+
   <p style="font-size: 16px; margin: 10px 0;">💳 安全支付 · ⚡ 即時開通</p>
-  
+
   <br>
-  
-  > 💡 **提示**: 完成贊助後，請保留交易號並聯繫我們獲取贊助者特權
+
+> 💡 **提示**: 完成贊助後，請保留交易號並聯繫我們獲取贊助者特權
 </div>
 
 # WeChat API & iPad 協議使用說明與風控防範教程（2025 年更新）
@@ -210,8 +210,8 @@ docker-compose restart
 
 1. 📚 仔細閱讀[風控指南](#-風控指南)，了解帳號安全事項
 2. 🐳 選擇部署方式：
-    - [Docker快速部署](#-快速部署-docker)（推薦：簡單快捷）
-    - [傳統部署](#-環境配置)（適合需要自定義配置的用戶）
+  - [Docker快速部署](#-快速部署-docker)（推薦：簡單快捷）
+  - [傳統部署](#-環境配置)（適合需要自定義配置的用戶）
 3. 🔒 遵循[登入注意事項](#登入注意事項)進行首次登入
 4. 🧪 參考[測試指南](#-測試指南)進行功能測試
 
@@ -340,15 +340,15 @@ WeChatPadPro 是基於 WeChat Pad 協議的高級 WeChat 管理工具，支援�
 ### 🔹 增強功能
 
 - 🔧 **MCP 增強功能**
-    - 多協議適配：自動識別並適配不同版本 WeChat 協議
-    - 自動化管理：通過配置實現請求自動通過、訊息同步
+  - 多協議適配：自動識別並適配不同版本 WeChat 協議
+  - 自動化管理：通過配置實現請求自動通過、訊息同步
 - 🤖 **自動化功能**
-    - 自動搶紅包、訊息防撤回
-    - 自動通過好友請求
-    - 多群訊息同步
+  - 自動搶紅包、訊息防撤回
+  - 自動通過好友請求
+  - 多群訊息同步
 - 👑 **高級群管理**
-    - 建群、拉人、踢人、邀請成員
-    - 群公告發布、修改群名稱
+  - 建群、拉人、踢人、邀請成員
+  - 群公告發布、修改群名稱
 
 ---
 
@@ -357,7 +357,7 @@ WeChatPadPro 是基於 WeChat Pad 協議的高級 WeChat 管理工具，支援�
 <div align="center">
   <h3>🚀 最新版本系統包</h3>
   <p>支持多平台、多架構的系統包下載</p>
-  
+
   <a href="https://github.com/WeChatPadPro/WeChatPadPro/releases">
     <img src="https://img.shields.io/badge/📦-下載最新版本-00BB00?style=for-the-badge&logo=github" alt="下載最新版本" />
   </a>
@@ -395,12 +395,12 @@ WeChatPadPro 是基於 WeChat Pad 協議的高級 WeChat 管理工具，支援�
 1. **下載**：根據您的操作系統和CPU架構，從上表中選擇對應的壓縮包下載
 2. **解壓**：將下載的壓縮包解壓到您選擇的目錄
 3. **配置**：
-   - 修改 `config.json` 檔案，設置必要的參數
-   - 配置 `webhook_config.json` 檔案，設置Webhook相關參數
-   - 設置環境變數（可選）
+  - 修改 `config.json` 檔案，設置必要的參數
+  - 配置 `webhook_config.json` 檔案，設置Webhook相關參數
+  - 設置環境變數（可選）
 4. **運行**：
-   - Windows: 雙擊 `wechatpadpro.exe` 或在命令行中運行
-   - Linux/macOS/BSD: 執行 `./wechatpadpro`
+  - Windows: 雙擊 `wechatpadpro.exe` 或在命令行中運行
+  - Linux/macOS/BSD: 執行 `./wechatpadpro`
 
 ### 🔗 快速下載
 
@@ -650,16 +650,16 @@ POST /api/login/verify/manual?key=your-uuid
 
 #### 🔥 重要更新 - Webhook系統全面優化
 - **訊息推送機制優化**
-    - 實現全局訊息去重緩存，避免重複推送同一訊息
-    - 新增訊息緩存過期機制，默認1小時過期
-    - 優化歷史訊息同步策略，減少每次獲取的訊息數量（從50條減少到20條）
-    - 增加同步間隔（從5秒增加到15秒），降低服務器負載
+  - 實現全局訊息去重緩存，避免重複推送同一訊息
+  - 新增訊息緩存過期機制，默認1小時過期
+  - 優化歷史訊息同步策略，減少每次獲取的訊息數量（從50條減少到20條）
+  - 增加同步間隔（從5秒增加到15秒），降低服務器負載
 
 - **訊息處理效率提升**
-    - 新增訊息批量處理機制，單批次最多處理20條訊息
-    - 實現訊息優先級排序，實時訊息優先於歷史訊息
-    - 添加訊息處理鎖機制，確保訊息處理的原子性
-    - 優化隊列處理邏輯，減少訊息處理延遲
+  - 新增訊息批量處理機制，單批次最多處理20條訊息
+  - 實現訊息優先級排序，實時訊息優先於歷史訊息
+  - 添加訊息處理鎖機制，確保訊息處理的原子性
+  - 優化隊列處理邏輯，減少訊息處理延遲
 
 #### ✨ 新功能 - Webhook配置管理
 - **配置管理接口**
@@ -672,18 +672,18 @@ POST /api/login/verify/manual?key=your-uuid
   ```
 
 - **配置功能特性**
-    - 支持自定義訊息類型過濾
-    - 支持自定義重試次數和超時時間
-    - 支持訊息簽名驗證機制（HMAC-SHA256）
-    - 支持啟用/禁用特定Webhook
-    - 支持是否接收自己發送的訊息
-    - 提供詳細的推送統計信息（成功數、失敗數、最後推送時間等）
+  - 支持自定義訊息類型過濾
+  - 支持自定義重試次數和超時時間
+  - 支持訊息簽名驗證機制（HMAC-SHA256）
+  - 支持啟用/禁用特定Webhook
+  - 支持是否接收自己發送的訊息
+  - 提供詳細的推送統計信息（成功數、失敗數、最後推送時間等）
 
 - **安全性和可靠性**
-    - 支持設置密鑰進行訊息簽名
-    - 實現指數退避重試機制
-    - 提供訊息推送狀態實時反饋
-    - 支持配置超時和重試參數
+  - 支持設置密鑰進行訊息簽名
+  - 實現指數退避重試機制
+  - 提供訊息推送狀態實時反饋
+  - 支持配置超時和重試參數
 
 ---
 
@@ -746,19 +746,19 @@ WeChatPadPro v860 支持以下操作系統和CPU架構：
 1. **下載**：根據您的操作系統和CPU架構，從上表中選擇對應的壓縮包下載。
 2. **解壓**：將下載的壓縮包解壓到您選擇的目錄。
 3. **配置**：
-    - 修改 `config.json` 檔案，設置必要的參數
-    - 配置 `webhook_config.json` 檔案，設置Webhook相關參數
-    - 設置環境變數（可選）：
-      ```
-      # Linux/macOS
-      export ADMIN_KEY="您的管理密鑰"
-      
-      # Windows
-      $env:ADMIN_KEY="您的管理密鑰"
-      ```
+  - 修改 `config.json` 檔案，設置必要的參數
+  - 配置 `webhook_config.json` 檔案，設置Webhook相關參數
+  - 設置環境變數（可選）：
+    ```
+    # Linux/macOS
+    export ADMIN_KEY="您的管理密鑰"
+    
+    # Windows
+    $env:ADMIN_KEY="您的管理密鑰"
+    ```
 4. **運行**：
-    - Windows: 雙擊 `wechatpadpro.exe` 或在命令行中運行
-    - Linux/macOS/BSD: 執行 `./wechatpadpro`
+  - Windows: 雙擊 `wechatpadpro.exe` 或在命令行中運行
+  - Linux/macOS/BSD: 執行 `./wechatpadpro`
 
 ### 5. 功能使用說明
 
@@ -809,13 +809,13 @@ Webhook 可以將微信訊息即時推送到您指定的URL。配置方法：
 
 3. **Webhook測試客戶端**：
    我們提供了一個開源的Webhook測試客戶端，幫助您快速測試和接收Webhook訊息：
-    - **項目地址**：[wechatpad-webhook-client](https://github.com/WeChatPadPro/wechatpad-webhook-client)
-    - **主要功能**：
-        - 接收和處理微信發送的webhook訊息
-        - 支持配置熱加載、簽名驗證、重試機制
-        - 完整的日誌記錄系統
-        - 支持多種訊息類型處理
-    - **使用方法**：詳見項目README，包含完整的安裝和配置說明
+  - **項目地址**：[wechatpad-webhook-client](https://github.com/WeChatPadPro/wechatpad-webhook-client)
+  - **主要功能**：
+    - 接收和處理微信發送的webhook訊息
+    - 支持配置熱加載、簽名驗證、重試機制
+    - 完整的日誌記錄系統
+    - 支持多種訊息類型處理
+  - **使用方法**：詳見項目README，包含完整的安裝和配置說明
 
 ---
 
@@ -882,18 +882,18 @@ WeChatPadPro 提供了豐富的 WeChat 功能控制命令，包括：
 ### 登入注意事項
 
 1. **異地登入處理**
-    - 必須設置同城市的Socks5代理
-    - 代理格式: `socks5://用戶名:密碼@代理IP:代理端口`
-    - 代理優先級: 同城市IP > 同省IP
-    - 家庭內網穿透socks5代理IP穩定性最佳
-    - 需要搭建內網穿透socks5代理可聯繫我們協助
+  - 必須設置同城市的Socks5代理
+  - 代理格式: `socks5://用戶名:密碼@代理IP:代理端口`
+  - 代理優先級: 同城市IP > 同省IP
+  - 家庭內網穿透socks5代理IP穩定性最佳
+  - 需要搭建內網穿透socks5代理可聯繫我們協助
    > 推薦工具: [frp](https://github.com/fatedier/frp/releases)
 
 2. **首次登入說明**
-    - 可能出現立即掉線情況,重新掃碼登入2次後即可穩定
-    - 24小時內可能會再次掉線(見下圖),使用原API `key`重新登入即可
-    - 重新登入後一般可穩定使用3個月
-    - 3天後基本穩定,7天後更穩定
+  - 可能出現立即掉線情況,重新掃碼登入2次後即可穩定
+  - 24小時內可能會再次掉線(見下圖),使用原API `key`重新登入即可
+  - 重新登入後一般可穩定使用3個月
+  - 3天後基本穩定,7天後更穩定
    > ⚠️ 注意: 一個授權碼`key`僅限一個 WeChat 號使用,多帳號需生成多個授權碼
 
 ![登出錯誤示例](./static/doc/logout_error.png)
@@ -903,11 +903,11 @@ WeChatPadPro 提供了豐富的 WeChat 功能控制命令，包括：
 ### 基礎環境要求
 
 - MySQL (推薦5.7及以上版本)
-    - 資料庫: `wechat_mmtls`
-    - 用戶名: `wechat_mmtls`
-    - 密碼: `12345678`
+  - 資料庫: `wechat_mmtls`
+  - 用戶名: `wechat_mmtls`
+  - 密碼: `12345678`
 - Redis
-    - 密碼: `12345678`
+  - 密碼: `12345678`
 
 > 對於MySQL 5.7以下版本,需提前使用[wechat_mmtls.sql](./wechat_mmtls.sql)建立資料庫表
 
@@ -960,10 +960,10 @@ mysql -u root -p
 #### Windows安裝
 
 1. 下載對應版本MSI安裝包:
-    - [MySQL 5.6.51](https://downloads.mysql.com/archives/get/p/25/file/mysql-installer-community-5.6.51.0.msi)
-    - [MySQL 5.5.60](https://downloads.mysql.com/archives/get/p/25/file/mysql-installer-community-5.5.60.1.msi)
-    - [MySQL 5.7.44](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-5.7.44.0.msi)
-    - [MySQL 8.0.39](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.39.0.msi)
+  - [MySQL 5.6.51](https://downloads.mysql.com/archives/get/p/25/file/mysql-installer-community-5.6.51.0.msi)
+  - [MySQL 5.5.60](https://downloads.mysql.com/archives/get/p/25/file/mysql-installer-community-5.5.60.1.msi)
+  - [MySQL 5.7.44](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-5.7.44.0.msi)
+  - [MySQL 8.0.39](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.39.0.msi)
 
 > 注意:
 > - 以上均為32位版本,最大支援4GB記憶體
@@ -985,16 +985,16 @@ mysql -u root -p
 ### 配置檔案說明
 
 1. **setting.json**
-    - debug: 是否開啟debug日誌
-    - port: 服務端口號
-    - apiVersion: API版本(如/v849)
-    - ghWxid: 引流關注的公眾號wxid
-    - adminKey: 管理介面授權KEY
-    - redisConfig:
-        - Port: Redis端口
-        - Db: Redis資料庫號
-        - Pass: Redis密碼
-    - mySqlConnectStr: MySQL連接字串
+  - debug: 是否開啟debug日誌
+  - port: 服務端口號
+  - apiVersion: API版本(如/v849)
+  - ghWxid: 引流關注的公眾號wxid
+  - adminKey: 管理介面授權KEY
+  - redisConfig:
+    - Port: Redis端口
+    - Db: Redis資料庫號
+    - Pass: Redis密碼
+  - mySqlConnectStr: MySQL連接字串
 
 2. **owner.json**
    ```json
@@ -1007,23 +1007,23 @@ mysql -u root -p
 ## 🚀 啟動流程
 
 1. 修改配置檔案
-    - 設置setting.json中的adminKey和資料庫連接資訊
-    - 在owner.json中新增管理員wxid
+  - 設置setting.json中的adminKey和資料庫連接資訊
+  - 在owner.json中新增管理員wxid
 
 2. 初始化資料庫(MySQL 5.7+)
-    - Linux: `./01_InitMySQL -passwd="root密碼"`
-    - Windows: `01_InitMySQL.exe -passwd="root密碼"`
+  - Linux: `./01_InitMySQL -passwd="root密碼"`
+  - Windows: `01_InitMySQL.exe -passwd="root密碼"`
 
 3. 啟動服務
-    - Linux: `/opt/wechat/wechat_service >/opt/wechat/run.log 2>&1 &`
-    - Windows: 雙擊`wechat_service.exe`
+  - Linux: `/opt/wechat/wechat_service >/opt/wechat/run.log 2>&1 &`
+  - Windows: 雙擊`wechat_service.exe`
 
 4. 獲取AuthKey
    訪問: `http://127.0.0.1:8848/login/GenAuthKey2?key=ADMIN_KEY&count=1&days=365`
 
 5. 登入操作
-    - 獲取二維碼(需配置本地代理)
-    - 監控二維碼狀態
+  - 獲取二維碼(需配置本地代理)
+  - 監控二維碼狀態
 
 ## 🔒 關於風控
 
@@ -1077,20 +1077,20 @@ mysql -u root -p
 ### 四、防範建議彙總
 
 - **登入與裝置管理**
-    - 固定IP、固定裝置
-    - 新裝置登入後靜置24小時
+  - 固定IP、固定裝置
+  - 新裝置登入後靜置24小時
 
 - **操作行為管控**
-    - 控制好友新增數、拉群次數
-    - 避免發送違規內容
+  - 控制好友新增數、拉群次數
+  - 避免發送違規內容
 
 - **內容合規與風險提示**
-    - 使用內容審查工具過濾文案
-    - 禁用第三方外掛或工具模擬登入
+  - 使用內容審查工具過濾文案
+  - 禁用第三方外掛或工具模擬登入
 
 - **提升帳號權重**
-    - 完成WeChat實名認證
-    - 經常互動增加信任度
+  - 完成WeChat實名認證
+  - 經常互動增加信任度
 
 ### 五、技術支援
 
