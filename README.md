@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Version-868-blue?style=for-the-badge" alt="版本">
   </a>
   <a href="https://github.com/WeChatPadPro/WeChatPadPro">
-    <img src="https://img.shields.io/badge/iOS-18.6-brightgreen?style=for-the-badge" alt="iOS">
+    <img src="https://img.shields.io/badge/iOS-18.7-brightgreen?style=for-the-badge" alt="iOS">
   </a>
   <a href="https://t.me/+LK0JuqLxjmk0ZjRh">
     <img src="https://img.shields.io/badge/Telegram-交流群-blue?style=for-the-badge&logo=telegram" alt="Telegram">
